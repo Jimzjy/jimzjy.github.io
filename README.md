@@ -1,0 +1,1 @@
+Only used for holding https://jimzjy.github.io/favicon.ico
